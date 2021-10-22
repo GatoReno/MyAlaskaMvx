@@ -2,10 +2,8 @@
 using System.Reflection;
 using Microsoft.Extensions.Logging;
 using MvvmCross.Converters;
-using MvvmCross.Droid.Support.V7.AppCompat;
-using MvvmCross.Droid.Support.V7.RecyclerView;
+using MvvmCross.DroidX.RecyclerView;
 using MvvmCross.Platforms.Android.Core;
-using MyOwnAppMvx;
 using MyOwnAppMvx.Converters;
 using Serilog;
 using Serilog.Extensions.Logging;

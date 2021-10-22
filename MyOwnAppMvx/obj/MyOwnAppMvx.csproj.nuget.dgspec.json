@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj": {}
+    "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj": {}
   },
   "projects": {
-    "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj": {
+    "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
+        "projectUniqueName": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
         "projectName": "MyOwnAppMvx",
-        "projectPath": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
-        "packagesPath": "/Users/ed/.nuget/packages/",
-        "outputPath": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/",
+        "projectPath": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
+        "packagesPath": "/Users/jairpalma/.nuget/packages/",
+        "outputPath": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/ed/.config/NuGet/NuGet.Config"
+          "/Users/jairpalma/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -66,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

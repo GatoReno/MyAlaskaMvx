@@ -8,3 +8,12 @@
 /Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/bin/Debug/netstandard2.1/MyOwnAppMvx.pdb
 /Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.dll
 /Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.pdb
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/bin/Debug/netstandard2.1/MyOwnAppMvx.deps.json
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/bin/Debug/netstandard2.1/MyOwnAppMvx.dll
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/bin/Debug/netstandard2.1/MyOwnAppMvx.pdb
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.AssemblyInfoInputs.cache
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.AssemblyInfo.cs
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.csproj.CoreCompileInputs.cache
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.dll
+/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.pdb

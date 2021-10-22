@@ -161,10 +161,10 @@ public final class R {
 	}
 	public static final class string {
 		public static final int copy_toast_msg = 0x7f0f0026;
-		public static final int fallback_menu_item_copy_link = 0x7f0f002e;
-		public static final int fallback_menu_item_open_in_browser = 0x7f0f002f;
-		public static final int fallback_menu_item_share_link = 0x7f0f0030;
-		public static final int status_bar_notification_info_overflow = 0x7f0f0078;
+		public static final int fallback_menu_item_copy_link = 0x7f0f002d;
+		public static final int fallback_menu_item_open_in_browser = 0x7f0f002e;
+		public static final int fallback_menu_item_share_link = 0x7f0f002f;
+		public static final int status_bar_notification_info_overflow = 0x7f0f0077;
 	}
 	public static final class style {
 		public static final int TextAppearance_Compat_Notification = 0x7f100185;
@@ -216,6 +216,6 @@ public final class R {
 		public static final int GradientColorItem_android_offset = 1;
 	}
 	public static final class xml {
-		public static final int image_share_filepaths = 0x7f120001;
+		public static final int image_share_filepaths = 0x7f120000;
 	}
 }

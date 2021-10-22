@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx.Droid/MyOwnAppMvx.Droid.csproj": {}
+    "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx.Droid/MyOwnAppMvx.Droid.csproj": {}
   },
   "projects": {
-    "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx.Droid/MyOwnAppMvx.Droid.csproj": {
+    "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx.Droid/MyOwnAppMvx.Droid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx.Droid/MyOwnAppMvx.Droid.csproj",
+        "projectUniqueName": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx.Droid/MyOwnAppMvx.Droid.csproj",
         "projectName": "MyOwnAppMvx.Droid",
-        "projectPath": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx.Droid/MyOwnAppMvx.Droid.csproj",
-        "packagesPath": "/Users/ed/.nuget/packages/",
-        "outputPath": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx.Droid/obj/",
+        "projectPath": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx.Droid/MyOwnAppMvx.Droid.csproj",
+        "packagesPath": "/Users/jairpalma/.nuget/packages/",
+        "outputPath": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx.Droid/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
-          "/Users/ed/.config/NuGet/NuGet.Config"
+          "/Users/jairpalma/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "monoandroid11.0"
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj": {
-                "projectPath": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj"
+              "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj": {
+                "projectPath": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj"
               }
             }
           }
@@ -44,13 +44,13 @@
               "target": "Package",
               "version": "[8.0.2, )"
             },
-            "MvvmCross.Droid.Support.V7.AppCompat": {
+            "MvvmCross.DroidX.RecyclerView": {
               "target": "Package",
-              "version": "[6.4.2, )"
+              "version": "[8.0.2, )"
             },
-            "MvvmCross.Droid.Support.V7.RecyclerView": {
+            "MvvmCross.DroidX.SwipeRefreshLayout": {
               "target": "Package",
-              "version": "[6.4.2, )"
+              "version": "[8.0.2, )"
             },
             "Serilog.Extensions.Logging": {
               "target": "Package",
@@ -84,17 +84,20 @@
         }
       }
     },
-    "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj": {
+    "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
+        "projectUniqueName": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
         "projectName": "MyOwnAppMvx",
-        "projectPath": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
-        "packagesPath": "/Users/ed/.nuget/packages/",
-        "outputPath": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/",
+        "projectPath": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
+        "packagesPath": "/Users/jairpalma/.nuget/packages/",
+        "outputPath": "/Users/jairpalma/Projects/MyAlaskaMvx/MyOwnAppMvx/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/ed/.config/NuGet/NuGet.Config"
+          "/Users/jairpalma/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -146,7 +149,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }

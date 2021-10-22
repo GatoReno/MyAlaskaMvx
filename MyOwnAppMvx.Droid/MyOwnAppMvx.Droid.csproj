@@ -138,14 +138,8 @@
     <PackageReference Include="MvvmCross">
       <Version>8.0.2</Version>
     </PackageReference>
-    <PackageReference Include="MvvmCross.Droid.Support.V7.AppCompat">
-      <Version>6.4.2</Version>
-    </PackageReference>
     <PackageReference Include="Acr.UserDialogs">
       <Version>7.1.0.514</Version>
-    </PackageReference>
-    <PackageReference Include="MvvmCross.Droid.Support.V7.RecyclerView">
-      <Version>6.4.2</Version>
     </PackageReference>
     <PackageReference Include="Serilog.Extensions.Logging">
       <Version>3.0.1</Version>
@@ -158,6 +152,12 @@
     </PackageReference>
     <PackageReference Include="Xamarin.AndroidX.Lifecycle.LiveData">
       <Version>2.3.1.2</Version>
+    </PackageReference>
+    <PackageReference Include="MvvmCross.DroidX.SwipeRefreshLayout">
+      <Version>8.0.2</Version>
+    </PackageReference>
+    <PackageReference Include="MvvmCross.DroidX.RecyclerView">
+      <Version>8.0.2</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>

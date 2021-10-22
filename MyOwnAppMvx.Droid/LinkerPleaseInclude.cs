@@ -2,12 +2,12 @@
 using System.Collections.Specialized;
 using System.Windows.Input;
 using Android.App;
-using Android.Support.V7.Widget;
 using Android.Views;
 using Android.Widget;
+using AndroidX.RecyclerView.Widget;
 using MvvmCross.Binding.BindingContext;
-using MvvmCross.Droid.Support.V4;
-using MvvmCross.Droid.Support.V7.RecyclerView;
+using MvvmCross.DroidX;
+using MvvmCross.DroidX.RecyclerView;
 using MvvmCross.Navigation;
 using MvvmCross.ViewModels;
 using MvvmCross.WeakSubscription;
