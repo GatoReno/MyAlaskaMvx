@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEhNsyijKtkGK2cHTN2FyEVRHQ3cjttTcq9yxy4mUJMMDteYW8NxMWOlDnbcIcl5DFTDz8qoH+wRasdMx28Mow==",
+  "success": true,
+  "projectFilePath": "/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/MyOwnAppMvx.csproj",
+  "expectedPackageFiles": [
+    "/Users/ed/.nuget/packages/acr.userdialogs/7.1.0.514/acr.userdialogs.7.1.0.514.nupkg.sha512",
+    "/Users/ed/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/ed/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512",
+    "/Users/ed/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

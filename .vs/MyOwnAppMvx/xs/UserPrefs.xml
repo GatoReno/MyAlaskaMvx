@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{2DFA194E-ABC0-4F2B-9A90-B29759054901}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyOwnAppMvx.Droid/Resources/layout/flights_list_view.xml">
+    <Files>
+      <File FileName="MyOwnAppMvx/Models/FlightConverter.cs" Line="13" Column="62" IsPinned="True" />
+      <File FileName="MyOwnAppMvx.Droid/Views/FlightsListView.cs" Line="17" Column="1" IsPinned="True" />
+      <File FileName="MyOwnAppMvx.Droid/Resources/layout/flight_row_template.xml" IsPinned="True" />
+      <File FileName="MyOwnAppMvx.Droid/Resources/layout/flights_list_view.xml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyOwnAppMvx" expanded="True">
+            <Node name="MyOwnAppMvx" expanded="True" />
+            <Node name="MyOwnAppMvx.Droid" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="layout" expanded="True">
+                  <Node name="flights_list_view.xml" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyOwnAppMvx.Droid AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
+</Properties>

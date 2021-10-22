@@ -1,0 +1,10 @@
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.csproj.AssemblyReference.cache
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.AssemblyInfoInputs.cache
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.AssemblyInfo.cs
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.csproj.CoreCompileInputs.cache
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/bin/Debug/netstandard2.1/MyOwnAppMvx.deps.json
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/bin/Debug/netstandard2.1/MyOwnAppMvx.dll
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/bin/Debug/netstandard2.1/MyOwnAppMvx.pdb
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.dll
+/Users/ed/Projects/MyOwnAppMvx/MyOwnAppMvx/obj/Debug/netstandard2.1/MyOwnAppMvx.pdb
