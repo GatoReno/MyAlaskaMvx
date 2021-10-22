@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
+using Acr.UserDialogs;
 using Microsoft.Extensions.Logging;
 
 using MvvmCross.Commands;
@@ -14,6 +15,7 @@ namespace MyOwnAppMvx.ViewModels
         private string _originCode;
         private string _destinationCode;
         private DateTime _departureTime;
+        private IUserDialogs _userDialogs;
 
         public string OriginCode
         {
@@ -36,14 +38,17 @@ namespace MyOwnAppMvx.ViewModels
         public IMvxAsyncCommand SearchAsyncCommand { get; private set; }
 
         public FlightSearchViewModel(ILoggerFactory logFactory,
-            IMvxNavigationService navigationService) : base(logFactory, navigationService)
+            IMvxNavigationService navigationService,
+             IUserDialogs userDialogs) : base(logFactory, navigationService)
         {
             Title = "Alaska Airlines";
+            _userDialogs = userDialogs;
             SearchAsyncCommand = new MvxAsyncCommand(OnSearchAsyncCommand);
         }
 
         private async Task OnSearchAsyncCommand()
         {
+
             var request = new FlightSearchRequest()
             {
                 OriginCode = OriginCode,
@@ -51,7 +56,17 @@ namespace MyOwnAppMvx.ViewModels
                 DepartureTime = DepartureTime,
                 ArrivalTime = DepartureTime
             };
-            await NavigationService.Navigate<FlightsListViewModel, FlightSearchRequest>(request);
+
+            if (string.IsNullOrWhiteSpace(request.DestinationCode) ||
+                string.IsNullOrWhiteSpace(request.OriginCode) || request.DepartureTime == null)
+            {                
+                _userDialogs.Toast("Data missing fill all entries");
+            }
+            else {
+                
+                await NavigationService.Navigate<FlightsListViewModel, FlightSearchRequest>(request);
+            }
+            
         }
     }
 }

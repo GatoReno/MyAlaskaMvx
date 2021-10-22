@@ -1,29 +1,29 @@
-﻿<Properties StartupConfiguration="{2DFA194E-ABC0-4F2B-9A90-B29759054901}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyOwnAppMvx/ViewModels/FlightSearchViewModel.cs">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{2DFA194E-ABC0-4F2B-9A90-B29759054901}|Default">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="MyOwnAppMvx.Droid/Views/FlightsListView.cs" Line="12" Column="41" IsPinned="True" />
-      <File FileName="MyOwnAppMvx/ViewModels/FlightSearchViewModel.cs" Line="45" Column="23" />
+      <File FileName="MyOwnAppMvx/ViewModels/FlightsListViewModel.cs" Line="31" Column="11" IsPinned="True" />
+      <File FileName="MyOwnAppMvx.Droid/Resources/layout/flight_search_view.xml" Line="60" Column="1" />
+      <File FileName="MyOwnAppMvx.Droid/Resources/layout/content_main.xml" Line="1" Column="1" />
+      <File FileName="MyOwnAppMvx.Droid/Resources/layout/activity_main.xml" Line="29" Column="9" />
+      <File FileName="MyOwnAppMvx.Droid/Resources/layout/flights_list_view.xml" Line="1" Column="1" />
+      <File FileName="MyOwnAppMvx.Droid/Properties/AndroidManifest.xml" />
+      <File FileName="MyOwnAppMvx.Droid/Resources/layout/flight_row_template.xml" Line="7" Column="55" />
+      <File FileName="MyOwnAppMvx.Droid/Resources/menu/menu_main.xml" Line="1" Column="1" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Aapt2.targets" Line="157" Column="3" />
+      <File FileName="MyOwnAppMvx/ViewModels/BaseNavViewModel.cs" Line="10" Column="18" />
+      <File FileName="MyOwnAppMvx.Droid/Views/FlightSearchView.cs" Line="1" Column="1" />
+      <File FileName="MyOwnAppMvx/App.cs" Line="1" Column="1" />
+      <File FileName="MyOwnAppMvx/ViewModels/FlightSearchViewModel.cs" Line="63" Column="66" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MyOwnAppMvx" expanded="True">
-            <Node name="MyOwnAppMvx" expanded="True">
-              <Node name="Dependencies" expanded="True">
-                <Node name="PackageDependencies" expanded="True" />
-              </Node>
-              <Node name="Converters" expanded="True" />
-              <Node name="utilities" expanded="True" />
-              <Node name="ViewModels" expanded="True">
-                <Node name="FlightSearchViewModel.cs" selected="True" />
-              </Node>
-            </Node>
-            <Node name="MyOwnAppMvx.Droid" expanded="True">
-              <Node name="Packages" expanded="True" />
+            <Node name="MyOwnAppMvx" expanded="True" />
+            <Node name="MyOwnAppMvx.Droid" expanded="True" selected="True">
               <Node name="Resources" expanded="True">
-                <Node name="layout" expanded="True" />
+                <Node name="drawable" expanded="True" />
               </Node>
-              <Node name="Views" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -36,5 +36,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.MyOwnAppMvx.Droid AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pie_9-api_28" />
+  <MonoDevelop.Ide.ItemProperties.MyOwnAppMvx.Droid PreferredExecutionTarget="Android.pixel_3a_pie_9_0_-_api_28" />
 </Properties>

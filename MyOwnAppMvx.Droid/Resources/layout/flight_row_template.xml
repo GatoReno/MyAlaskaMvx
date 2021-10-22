@@ -4,16 +4,18 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:focusable="true"
     android:checkable="true"
-    android:backgroundTint="@android:color/holo_purple"
-    android:layout_width="match_parent"
+    android:backgroundTint="@android:color/darker_gray"
+    android:layout_width="match_parent"    
     android:layout_height="wrap_content"
+    android:clipToPadding="false"
+        android:elevation="40dp"
     android:layout_marginTop="@dimen/small_margin"
     android:layout_marginBottom="@dimen/small_margin"
     android:layout_marginRight="@dimen/default_margin"
     android:layout_marginLeft="@dimen/default_margin">
-        <LinearLayout
+        <LinearLayout        
         android:padding="@dimen/default_margin"
-        android:orientation="vertical"
+        android:orientation="vertical"        
         android:layout_width="match_parent"
         android:layout_height="match_parent">
         <TextView
@@ -25,6 +27,30 @@
             app:MvxBind="Text FlightNumber, Converter=FlightNumberConverter"
             android:layout_width="match_parent"
             android:layout_height="match_parent"/>
+         <LinearLayout
+            android:weightSum="2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView
+                android:textColor="@android:color/white"
+                android:layout_weight="1"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:text="✈️"                
+                android:gravity="center"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"/>
+            <TextView
+                android:textColor="@android:color/white"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                 android:text="✈️"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"/>
+        </LinearLayout>
         <LinearLayout
             android:weightSum="2"
             android:orientation="horizontal"
